@@ -1,5 +1,5 @@
 body {
-    background-color: #000;
+    background-color: #a7dbe3;
     color: white;
     font-size: 21px;
     font-family: sans-serif;
@@ -7,9 +7,20 @@ body {
 
 h1 {
     font-size: 70px;
-    color: pink;
+    color: #3747b3;
 }
 
 p {
-    color: #ffcc00;
+    color: #2f4c5c;
+}
+
+div {
+    background: pink;
+    width: 500px;
+}
+
+span {
+    color: yellow;
+    font-size: 40px;
+    font-weight: bold;
 }
