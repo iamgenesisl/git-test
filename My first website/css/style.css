@@ -13,22 +13,19 @@ p {
     color: #2f4c5c;
 }
 
-.intro {
-    font-size: 20px;
-}
+/* the CSS box model */
 
-.highlight {
-    background: yellow;
-}
+/*  Margin:
+    Border:
+    Padding:
+*/
 
-.accent-color {
-    color: red;
-}
-
-.top-section {
+.box {
     background: pink;
-}
+    width: 300px;
 
-.bottom-section {
-    background: green;
+    margin: 100px;
+    border: 10px solid red;
+    padding: 100px 25px;
+     /* top right bottom left */ 
 }
