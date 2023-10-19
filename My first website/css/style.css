@@ -2,7 +2,6 @@ body {
     background-color: #a7dbe3;
     color: white;
     font-size: 21px;
-    font-family: sans-serif;
 }
 
 h1 {
@@ -14,13 +13,22 @@ p {
     color: #2f4c5c;
 }
 
-div {
-    background: pink;
-    width: 500px;
+.intro {
+    font-size: 20px;
 }
 
-span {
-    color: yellow;
-    font-size: 40px;
-    font-weight: bold;
+.highlight {
+    background: yellow;
+}
+
+.accent-color {
+    color: red;
+}
+
+.top-section {
+    background: pink;
+}
+
+.bottom-section {
+    background: green;
 }
