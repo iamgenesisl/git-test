@@ -22,10 +22,11 @@ p {
 
 .box {
     background: pink;
-    width: 300px;
-
+    background-image: url(../img/gear5.jpg);
     margin: 100px;
-    border: 10px solid red;
-    padding: 100px 25px;
+    padding: 300px;
      /* top right bottom left */ 
+
+    background-size: cover;
+    background-position: center;
 }
